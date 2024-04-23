@@ -37,6 +37,7 @@ Return the optimal Q-values, state-value function, and policy.
 ## MONTE CARLO CONTROL FUNCTION
 
 Name: HARINI V
+
 Reg no: 212222230044
 
 ```python
